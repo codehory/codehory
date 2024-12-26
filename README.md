@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on developing interactive and practical teaching materials for computer science, as well as participating in open-source projects related to education and technology.
+- 👯 I’m looking to collaborate on open-source projects that promote educational technology and innovation.
 <!--
 **codehory/codehory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
